@@ -87,52 +87,33 @@ I'm a **Senior Backend Engineer** passionate about building scalable APIs, distr
 
 ---
 
-## ⚙️ Backend & Cloud Expertise
-
-```text
-Backend          Golang • Python • REST APIs • Microservices
-Concurrency      Goroutines • Channels • Worker Pools
-Architecture     Distributed Systems • Event-Driven Systems
-Databases        PostgreSQL • MySQL • Redis • Couchbase
-Search           Elasticsearch
-Cloud            AWS • EKS
-Containers       Docker • Kubernetes
-Observability    Logging • Metrics • Monitoring
-DevOps           Git • CI/CD • Linux
-AI / GenAI       LLMs • RAG • Vector Databases
-```
-
----
-
-## 📊 GitHub Stats
+## 🧠 Currently Exploring
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chaitanya-bhagat&show_icons=true&theme=default&hide_border=true&count_private=true" width="420" alt="Chaitanya's GitHub Stats" />
+### 🤖 AI & Generative AI
+
+<img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-00A67E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector%20DB-Embeddings%20%26%20Search-FF6F00?style=for-the-badge" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-bhagat&layout=compact&hide_border=true&langs_count=8" width="350" alt="Chaitanya's Top Languages" />
+### ⚡ Distributed Systems
+
+<img src="https://img.shields.io/badge/Event--Driven-Architecture-FF4F8B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scalable-Microservices-2496ED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Concurrency-Go%20Patterns-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+
+<br/><br/>
+
+### ☁️ Cloud Architecture
+
+<img src="https://img.shields.io/badge/Kubernetes-Cloud%20Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-Cloud%20Architecture-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Observability-Reliable%20Systems-F46800?style=for-the-badge&logo=prometheus&logoColor=white" />
 
 </div>
----
-
-## 🎯 Currently Exploring
-
-```text
-AI / GenAI
-├── Large Language Models (LLMs)
-├── Retrieval-Augmented Generation (RAG)
-├── Vector Databases
-└── AI-powered Backend Systems
-
-Distributed Systems
-├── Event-Driven Architecture
-├── Scalable Microservices
-├── Concurrency Patterns
-└── Resilient Cloud-Native Systems
-```
-
 ---
 
 ## 💬 Engineering Philosophy
