@@ -108,22 +108,13 @@ AI / GenAI       LLMs • RAG • Vector Databases
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=chaitanya-bhagat&show_icons=true&theme=default&hide_border=true&count_private=true"
-width="420"
-alt="Chaitanya's GitHub Stats"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=chaitanya-bhagat&show_icons=true&theme=default&hide_border=true&count_private=true" width="420" alt="Chaitanya's GitHub Stats" />
 
-<br/>
+<br/><br/>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-bhagat&layout=compact&hide_border=true&langs_count=8"
-width="350"
-alt="Chaitanya's Top Languages"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-bhagat&layout=compact&hide_border=true&langs_count=8" width="350" alt="Chaitanya's Top Languages" />
 
 </div>
-
 ---
 
 ## 🎯 Currently Exploring
