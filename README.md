@@ -1,73 +1,88 @@
-# Hi, I'm Chaitanya Bhagat 👋
+<div align="center">
 
-**Senior Backend Engineer | Golang | Distributed Systems | Microservices | AWS | Kubernetes**
+# Chaitanya Bhagat
 
-I build scalable backend services, REST APIs, and cloud-native applications — with 6+ years of experience across clinical analytics, telecom (RAN intelligence), and healthcare procurement platforms.
+### Senior Backend Engineer specializing in Golang & Distributed Systems
 
-- 🔭 Currently building clinical analytics backend services at **Aspire** (Endava/Instem)
-- 🌱 Deep experience with concurrency (Goroutines & Channels), event-driven architecture, and observability/auditing pipelines
-- 🛠️ Comfortable across the stack: Go frameworks, SQL/NoSQL databases, AWS, Docker/Kubernetes, and the ELK stack
-- 📫 Reach me at **bhagat.chaitanya29@gmail.com**
-- 🔗 [LinkedIn](#) &nbsp;|&nbsp; [GitHub](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-b-0a1452100/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitanya-bhagat)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhagat.chaitanya29@gmail.com)
 
----
-
-### 🧰 Tech Stack
-
-**Languages**
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Backend & Architecture**
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square)
-![Microservices](https://img.shields.io/badge/-Microservices-3C873A?style=flat-square)
-![Event--Driven](https://img.shields.io/badge/-Event--Driven%20Architecture-FF6F00?style=flat-square)
-![Concurrency](https://img.shields.io/badge/-Concurrency-00ADD8?style=flat-square)
-
-**Go Frameworks**
-![Chi](https://img.shields.io/badge/-Chi-00ADD8?style=flat-square)
-![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square)
-![Echo](https://img.shields.io/badge/-Echo-00ADD8?style=flat-square)
-![Gorilla Mux](https://img.shields.io/badge/-Gorilla%20Mux-00ADD8?style=flat-square)
-
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Couchbase](https://img.shields.io/badge/-Couchbase-EA2328?style=flat-square&logo=couchbase&logoColor=white)
-![ArangoDB](https://img.shields.io/badge/-ArangoDB-DDE072?style=flat-square)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-**Observability**
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
-![Logstash](https://img.shields.io/badge/-Logstash-005571?style=flat-square&logo=logstash&logoColor=white)
+</div>
 
 ---
 
-### 💼 Experience Highlights
+## About Me
 
-- **Aspire (Endava | Instem)** — Senior Developer *(Jul 2023–Present)*
-  Designed RESTful APIs for clinical analytics workflows, built a Redis-based event bus, a Windows Event Collector with near-zero event loss, and an ELK-based auditing/observability solution.
+I'm a backend engineer with 6+ years of experience designing production-ready, cloud-native systems in Go — spanning clinical analytics, telecom RAN intelligence, and B2B healthcare platforms. I care about clean API design, resilient event-driven systems, and making services observable end-to-end.
 
-- **Non-Real Time RAN Intelligent Controller (Mavenir Systems)** — Member of Technical Staff II *(Mar 2022–May 2023)*
-  Built concurrent data-processing pipelines using Goroutines/Channels for a software-defined RAN intelligence platform.
-
-- **ANX (Bosleo Technology)** — Software Engineer *(Feb 2020–Mar 2022)*
-  Built RESTful APIs for a B2B healthcare procurement platform; integrated ArangoDB for graph-based business relationships.
-
----
-
-### 🎓 Education
-- M.E. in Computer Engineering, Pune Institute of Computer Technology (2017–2019)
-- B.E. in Information Technology, RTMNU, Nagpur (2010–2015)
+- 💼 Senior Developer at **Aspire** (Instem) — building backend services for a clinical analytics platform
+- ⚙️ Strong focus on **concurrency**, **microservices**, and **event-driven architecture**
+- 📊 Hands-on with **observability & auditing** pipelines (ELK stack)
+- ☁️ Cloud-native deployment experience with **AWS EKS**, **Docker**, **Kubernetes**
+- 🤝 Mentor to junior developers; active in system design and code review
 
 ---
 
-<p align="center"><i>Open to interesting backend/distributed-systems problems — feel free to reach out!</i></p>
+## GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chaitanya-bhagat&show_icons=true&theme=default&hide_border=true" alt="Chaitanya's GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-bhagat&layout=compact&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya-bhagat&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## Tech Toolbox
+
+| Category | Stack |
+|---|---|
+| **Languages** | Go, Python, C, SQL |
+| **Go Frameworks** | Chi, Gin, Echo, Gorilla Mux, net/http |
+| **Databases** | PostgreSQL, MySQL, Redis, Couchbase, ArangoDB |
+| **Cloud & DevOps** | AWS (EKS, EC2, Lambda, IAM, CloudWatch, EFS, DataSync), Docker, Kubernetes |
+| **Observability** | Elasticsearch, OpenSearch, Logstash, Kibana, Auditbeat |
+| **Tools** | Git, Postman, VS Code, JIRA, Confluence |
+
+---
+
+## Experience
+
+**Aspire — Senior Developer** · *Endava / Instem* · Jul 2023 – Present
+Clinical analytics backend in Golang: RESTful APIs, Redis-based event bus, Windows Event Collector with checkpoint recovery, and an ELK-powered auditing/observability solution.
+
+**Non-Real Time RAN Intelligent Controller — MTS II, R&D** · *Mavenir Systems* · Mar 2022 – May 2023
+Concurrent data-processing workflows (Goroutines/Channels) for a software-defined RAN intelligence platform.
+
+**ANX — Software Engineer** · *Bosleo Technology* · Feb 2020 – Mar 2022
+RESTful APIs for a B2B healthcare procurement platform, with ArangoDB for graph-based entity relationships.
+
+**REST API Review Comments Analyzer — Associate Developer Intern** · *SAS R&D* · Jun 2018 – Jun 2019
+Python web-scraping and TF-IDF text analysis pipeline over SASPedia review comments.
+
+---
+
+## Education
+
+🎓 **M.E., Computer Engineering** — Pune Institute of Computer Technology (2017–2019)
+🎓 **B.E., Information Technology** — RTMNU, Nagpur (2010–2015)
+
+---
+
+<div align="center">
+<i>Always up for a conversation about backend architecture, distributed systems, or Go internals.</i>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=chaitanya-bhagat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+<br><br>
+
+⭐ If you like my work, consider following me and starring my repositories!
+</div>
