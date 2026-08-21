@@ -1,6 +1,6 @@
 # Hey 👋 What's Up?
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Senior+Backend+Engineer;Golang+%26+Distributed+Systems;Cloud-Native+Platform+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Senior+Backend+Engineer;Golang+%26+Distributed+Systems;Cloud-Native+Platform+Building)](https://git.io/typing-svg)
 
 ---
 
