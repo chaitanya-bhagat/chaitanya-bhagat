@@ -110,35 +110,53 @@ I combine **Python for AI engineering** with **Go for high-performance backend i
 
 
 ---
-
 ## ⚡ Building AI for Production
 
 <div align="center">
 
-**Intelligence Layer**
+### 🧠 Intelligence Layer
 
-`LLMs` • `RAG` • `AI Agents` • `Embeddings` • `Vector Search` • `Evaluation`
+<img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="LLMs"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge" height="28" alt="RAG"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge" height="28" alt="AI Agents"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Vector%20Search-FF6F00?style=for-the-badge" height="28" alt="Vector Search"/>
 
-⬇️
+<br/>
 
-**Python — AI Engineering**
+**↓**
 
-`LLM Apps` • `RAG Pipelines` • `Agents` • `Data Processing` • `AI Workflows`
+### 🐍 Python · AI Engineering
 
-⬇️
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python"/>
 
-**Go — Production Services**
+`LLM Apps` · `RAG Pipelines` · `Agents` · `Embeddings` · `Data Processing`
 
-`High-Performance APIs` • `Concurrency` • `Workers` • `AI Gateways` • `Microservices`
+**↓**
 
-⬇️
+### ⚡ Go · Production Services
 
-**Cloud-Native Infrastructure**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="42" height="42" alt="Go" title="Go"/>
 
-`Docker` • `Kubernetes` • `AWS` • `Observability` • `Distributed Systems`
+`High-Performance APIs` · `Concurrency` · `Workers` · `AI Gateways` · `Microservices`
+
+**↓**
+
+### ☁️ Cloud-Native Infrastructure
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" title="Docker"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="38" height="38" alt="Kubernetes" title="Kubernetes"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="38" alt="AWS" title="AWS"/>
+
+<br/>
+
+`Docker` · `Kubernetes` · `AWS` · `Observability` · `Distributed Systems`
 
 </div>
-
 ---
 
 ## 🔬 Currently Exploring
