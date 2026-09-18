@@ -54,39 +54,45 @@ I combine **Python for AI engineering** with **Go for high-performance backend i
 
 <div align="center">
 
-### 🧠 AI & GenAI
-
-<img src="https://img.shields.io/badge/LLMs-6C63FF?style=flat-square&logo=openai&logoColor=white" alt="LLMs"/>
-<img src="https://img.shields.io/badge/RAG-00A67E?style=flat-square" alt="RAG"/>
-<img src="https://img.shields.io/badge/AI%20Agents-8A2BE2?style=flat-square" alt="AI Agents"/>
-<img src="https://img.shields.io/badge/Embeddings-4285F4?style=flat-square" alt="Embeddings"/>
-<img src="https://img.shields.io/badge/Vector%20Search-FF6F00?style=flat-square" alt="Vector Search"/>
-
 ### 💻 Languages
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32" alt="Python"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="32" alt="Go"/>
+&nbsp;
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" height="32" alt="C"/>
+
+<br/>
 
 ### 🗄️ Databases & Search
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-<img src="https://img.shields.io/badge/Couchbase-EA2328?style=flat-square&logo=couchbase&logoColor=white" alt="Couchbase"/>
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="32" alt="PostgreSQL"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32" alt="MySQL"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="32" alt="Redis"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" height="32" alt="Couchbase"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="32" alt="Elasticsearch"/>
+
+<br/>
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="32" alt="AWS"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="32" alt="Kubernetes"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="32" alt="Docker"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32" alt="Git"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="32" alt="Linux"/>
 
 </div>
-
-
 ---
 
 ## ⚡ Building AI for Production
