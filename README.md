@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=600\&lines=AI+Engineer;LLMs+%7C+RAG+%7C+AI+Agents;Python+%7C+Go;Building+Production-Ready+AI+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=600\&lines=AI+Engineer;LLMs+%7C+RAG+%7C+AI+Agents;Python+%7C+GoLang;Building+Production-Ready+AI+Systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,12 +12,12 @@
 
 I'm an **AI Engineer** with **6+ years of software engineering experience**, focused on building intelligent, scalable, and production-ready AI systems.
 
-I combine **Python for AI engineering** with **Go for high-performance backend infrastructure**, bringing experience in distributed systems, cloud-native architecture, and production engineering to AI applications.
+I combine **Python for AI engineering** with **GoLang for high-performance backend infrastructure**, bringing experience in distributed systems, cloud-native architecture, and production engineering to AI applications.
 
 * 🧠 Building **LLM-powered applications, RAG systems & AI Agents**
 * 🔍 Working with **Embeddings, Semantic Search & Vector Databases**
 * 🐍 Using **Python** for AI workflows, LLM integrations & data pipelines
-* ⚡ Using **Go** for high-performance APIs & concurrent backend services
+* ⚡ Using **GoLang** for high-performance APIs & concurrent backend services
 * ☁️ Deploying workloads with **Docker, Kubernetes & AWS**
 * 📊 Focused on **observability, reliability, scalability & evaluation**
 * 🔄 Experienced in **Distributed Systems, Microservices & Event-Driven Architecture**
@@ -72,9 +72,9 @@ I combine **Python for AI engineering** with **Go for high-performance backend i
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python"/>
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="42" height="42" alt="Go" title="Go"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="42" height="42" alt="Go" title="GoLang"/>
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C" title="C"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C" title="C Programming"/>
 </td>
 </tr>
 
@@ -213,18 +213,6 @@ I combine **Python for AI engineering** with **Go for high-performance backend i
 <img src="https://img.shields.io/badge/Multi--Agent-Systems-6C63FF?style=flat-square" alt="Multi Agent Systems"/>
 <img src="https://img.shields.io/badge/LLM-Evaluation-4285F4?style=flat-square" alt="LLM Evaluation"/>
 <img src="https://img.shields.io/badge/AI-Observability-F46800?style=flat-square" alt="AI Observability"/>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chaitanya-bhagat&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="Chaitanya's GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-bhagat&layout=compact&hide_border=true&langs_count=8" height="165" alt="Chaitanya's Top Languages"/>
 
 </div>
 
