@@ -49,41 +49,28 @@ I combine **Python for AI engineering** with **Go for high-performance backend i
 </div>
 
 ---
-
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### 💻 Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="Python"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="30" alt="Go"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" height="30" alt="C"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44" height="44" alt="Python" title="Python"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="44" height="44" alt="Go" title="Go"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="44" height="44" alt="C" title="C"/>
 
 ### 🗄️ Databases & Search
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="30" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" height="30" alt="Couchbase"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="30" alt="Elasticsearch"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" title="MySQL"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="44" height="44" alt="Redis" title="Redis"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchbase/couchbase-original.svg" width="44" height="44" alt="Couchbase" title="Couchbase"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="44" height="44" alt="Elasticsearch" title="Elasticsearch"/>
 
 ### ☁️ Cloud & Containers
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="30" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="30" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Docker"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="44" alt="AWS" title="AWS"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="44" height="44" alt="Kubernetes" title="Kubernetes"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" title="Docker"/>
 
 ### ⚙️ Engineering Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="Linux"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="44" height="44" alt="Git" title="Git"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="44" height="44" alt="Linux" title="Linux"/>
+
+</div>
+
 ---
 
 ## ⚡ Building AI for Production
