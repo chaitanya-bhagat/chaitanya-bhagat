@@ -28,11 +28,19 @@ I combine **Python for AI engineering** with **Go for high-performance backend i
 ## 🌐 Connect With Me
 
 <div align="center">
-<a href="https://www.linkedin.com/in/chaitanya-b-0a1452100/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<a href="https://www.linkedin.com/in/chaitanya-b-0a1452100/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 &nbsp;
-<a href="https://github.com/chaitanya-bhagat"><img src="https://img.shields.io/badge/GitHub-chaitanya--bhagat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/chaitanya-bhagat">
+  <img src="https://img.shields.io/badge/GitHub-chaitanya--bhagat-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 &nbsp;
-<a href="mailto:bhagat.chaitanya29@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:bhagat.chaitanya29@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 </div>
 
 ---
@@ -40,12 +48,14 @@ I combine **Python for AI engineering** with **Go for high-performance backend i
 ## 🧠 AI Engineering
 
 <div align="center">
+
 <img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
 <img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge" alt="RAG"/>
 <img src="https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge" alt="AI Agents"/>
 <img src="https://img.shields.io/badge/Embeddings-4285F4?style=for-the-badge" alt="Embeddings"/>
 <img src="https://img.shields.io/badge/Vector%20Search-FF6F00?style=for-the-badge" alt="Vector Search"/>
 <img src="https://img.shields.io/badge/LLM%20Evaluation-F46800?style=for-the-badge" alt="LLM Evaluation"/>
+
 </div>
 
 ---
@@ -55,6 +65,7 @@ I combine **Python for AI engineering** with **Go for high-performance backend i
 <div align="center">
 
 <table>
+
 <tr>
 <td align="right"><strong>💻 Languages</strong></td>
 <td align="left">
@@ -104,12 +115,13 @@ I combine **Python for AI engineering** with **Go for high-performance backend i
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" title="Linux"/>
 </td>
 </tr>
+
 </table>
 
 </div>
 
-
 ---
+
 ## ⚡ Building AI for Production
 
 <div align="center">
@@ -126,7 +138,7 @@ I combine **Python for AI engineering** with **Go for high-performance backend i
 
 <br/>
 
-### ↓
+↓
 
 ### 🐍 Python · AI Engineering
 
@@ -146,7 +158,7 @@ I combine **Python for AI engineering** with **Go for high-performance backend i
 
 <br/>
 
-### ↓
+↓
 
 ### ⚡ Go · Production Services
 
@@ -166,7 +178,7 @@ I combine **Python for AI engineering** with **Go for high-performance backend i
 
 <br/>
 
-### ↓
+↓
 
 ### ☁️ Cloud-Native Infrastructure
 
@@ -189,6 +201,7 @@ I combine **Python for AI engineering** with **Go for high-performance backend i
 <img src="https://img.shields.io/badge/Distributed%20Systems-Scalability-4B5563?style=flat-square" height="25" alt="Distributed Systems"/>
 
 </div>
+
 ---
 
 ## 🔬 Currently Exploring
@@ -208,9 +221,11 @@ I combine **Python for AI engineering** with **Go for high-performance backend i
 ## 📊 GitHub Stats
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=chaitanya-bhagat&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="Chaitanya's GitHub Stats"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-bhagat&layout=compact&hide_border=true&langs_count=8" height="165" alt="Chaitanya's Top Languages"/>
+
 </div>
 
 ---
@@ -223,10 +238,10 @@ I combine **Python for AI engineering** with **Go for high-performance backend i
 
 ### 🤖 AI Engineer · 🐍 Python · ⚡ Go · ☁️ Cloud Native
 
-**Building intelligent systems designed for production.**
-
 [![Profile Views](https://komarev.com/ghpvc/?username=chaitanya-bhagat\&color=brightgreen\&style=flat-square)](https://github.com/chaitanya-bhagat)
 
 </div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=80&section=footer" width="100%" alt="Footer"/>
