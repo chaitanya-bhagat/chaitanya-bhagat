@@ -116,45 +116,77 @@ I combine **Python for AI engineering** with **Go for high-performance backend i
 
 ### 🧠 Intelligence Layer
 
-<img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="LLMs"/>
+<img src="https://img.shields.io/badge/LLMs-Language%20Models-6C63FF?style=flat-square&logo=openai&logoColor=white" height="26" alt="LLMs"/>
 &nbsp;
-<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge" height="28" alt="RAG"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval-00A67E?style=flat-square" height="26" alt="RAG"/>
 &nbsp;
-<img src="https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge" height="28" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/AI%20Agents-Agentic%20Systems-8A2BE2?style=flat-square" height="26" alt="AI Agents"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Vector%20Search-FF6F00?style=for-the-badge" height="28" alt="Vector Search"/>
+<img src="https://img.shields.io/badge/Vector%20Search-Semantic%20Retrieval-FF6F00?style=flat-square" height="26" alt="Vector Search"/>
 
 <br/>
 
-**↓**
+### ↓
 
 ### 🐍 Python · AI Engineering
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python"/>
-
-`LLM Apps` · `RAG Pipelines` · `Agents` · `Embeddings` · `Data Processing`
-
-**↓**
-
-### ⚡ Go · Production Services
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="42" height="42" alt="Go" title="Go"/>
-
-`High-Performance APIs` · `Concurrency` · `Workers` · `AI Gateways` · `Microservices`
-
-**↓**
-
-### ☁️ Cloud-Native Infrastructure
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" title="Docker"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="38" height="38" alt="Kubernetes" title="Kubernetes"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="38" alt="AWS" title="AWS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python"/>
 
 <br/>
 
-`Docker` · `Kubernetes` · `AWS` · `Observability` · `Distributed Systems`
+<img src="https://img.shields.io/badge/LLM%20Apps-Applications-3776AB?style=flat-square&logo=openai&logoColor=white" height="25" alt="LLM Apps"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RAG%20Pipelines-Retrieval-00A67E?style=flat-square" height="25" alt="RAG Pipelines"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Agents-Orchestration-8A2BE2?style=flat-square" height="25" alt="Agents"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Embeddings-Semantic%20Search-4285F4?style=flat-square" height="25" alt="Embeddings"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Data%20Processing-Pipelines-F9AB00?style=flat-square" height="25" alt="Data Processing"/>
+
+<br/>
+
+### ↓
+
+### ⚡ Go · Production Services
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="52" height="52" alt="Go" title="Go"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/High--Performance%20APIs-Services-00ADD8?style=flat-square" height="25" alt="High Performance APIs"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Concurrency-Goroutines-00ADD8?style=flat-square&logo=go&logoColor=white" height="25" alt="Concurrency"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Workers-Async%20Processing-4B5563?style=flat-square" height="25" alt="Workers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AI%20Gateways-Integration-6C63FF?style=flat-square" height="25" alt="AI Gateways"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Microservices-Distributed-326CE5?style=flat-square" height="25" alt="Microservices"/>
+
+<br/>
+
+### ↓
+
+### ☁️ Cloud-Native Infrastructure
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="42" height="42" alt="Kubernetes" title="Kubernetes"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="46" height="42" alt="AWS" title="AWS"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="25" alt="Containers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="25" alt="Orchestration"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" height="25" alt="Cloud"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Observability-Metrics%20%26%20Tracing-F46800?style=flat-square&logo=prometheus&logoColor=white" height="25" alt="Observability"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Distributed%20Systems-Scalability-4B5563?style=flat-square" height="25" alt="Distributed Systems"/>
 
 </div>
 ---
