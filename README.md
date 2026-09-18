@@ -72,7 +72,7 @@ I combine **Python for AI engineering** with **GoLang for high-performance backe
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python"/>
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="42" height="42" alt="Go" title="GoLang"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="42" height="42" alt="GoLang" title="GoLang"/>
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C" title="C Programming"/>
 </td>
@@ -160,9 +160,9 @@ I combine **Python for AI engineering** with **GoLang for high-performance backe
 
 ↓
 
-### ⚡ Go · Production Services
+### ⚡ GoLang · Production Services
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="52" height="52" alt="Go" title="Go"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="52" height="52" alt="GoLang" title="GoLang"/>
 
 <br/>
 
@@ -224,7 +224,7 @@ I combine **Python for AI engineering** with **GoLang for high-performance backe
 
 > **"AI becomes valuable when intelligent models are backed by reliable, scalable, and production-ready engineering."**
 
-### 🤖 AI Engineer · 🐍 Python · ⚡ Go · ☁️ Cloud Native
+### 🤖 AI Engineer · 🐍 Python · ⚡ GoLang · ☁️ Cloud Native
 
 [![Profile Views](https://komarev.com/ghpvc/?username=chaitanya-bhagat\&color=brightgreen\&style=flat-square)](https://github.com/chaitanya-bhagat)
 
