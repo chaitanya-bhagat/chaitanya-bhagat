@@ -55,21 +55,34 @@ I combine **Python for AI engineering** with **Go for high-performance backend i
 
 ### 💻 Languages
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44" height="44" alt="Python" title="Python"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="44" height="44" alt="Go" title="Go"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="44" height="44" alt="C" title="C"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44" height="44" alt="Python" title="Python"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="44" height="44" alt="Go" title="Go"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="44" height="44" alt="C" title="C"/>
+
+<br/>
+
+`• • • • • • • • • • • • • • •`
 
 ### 🗄️ Databases & Search
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" title="MySQL"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="44" height="44" alt="Redis" title="Redis"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchbase/couchbase-original.svg" width="44" height="44" alt="Couchbase" title="Couchbase"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="44" height="44" alt="Elasticsearch" title="Elasticsearch"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" title="MySQL"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="44" height="44" alt="Redis" title="Redis"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchbase/couchbase-original.svg" width="44" height="44" alt="Couchbase" title="Couchbase"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="44" height="44" alt="Elasticsearch" title="Elasticsearch"/>
+
+<br/>
+
+`• • • • • • • • • • • • • • •`
 
 ### ☁️ Cloud & Containers
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="44" alt="AWS" title="AWS"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="44" height="44" alt="Kubernetes" title="Kubernetes"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" title="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="44" alt="AWS" title="AWS"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="44" height="44" alt="Kubernetes" title="Kubernetes"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" title="Docker"/>
+
+<br/>
+
+`• • • • • • • • • • • • • • •`
 
 ### ⚙️ Engineering Tools
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="44" height="44" alt="Git" title="Git"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="44" height="44" alt="Linux" title="Linux"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="44" height="44" alt="Git" title="Git"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="44" height="44" alt="Linux" title="Linux"/>
 
 </div>
+
 
 ---
 
